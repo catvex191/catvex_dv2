@@ -14,3 +14,6 @@ RegisterCommand('dv2', function(source, args, rawCommand)
         TriggerClientEvent('esx:showNotification', source, 'Spieler nicht gefunden.')
     end
 end, false)
+
+
+print("[🐈‍⬛ CatVex] Script gestartet ✅")
